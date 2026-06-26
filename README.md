@@ -12,14 +12,15 @@ e confrontarle con un altro PC.
 REQUISITI
 ---------
 - Python 3.8+ per Windows  →  https://www.python.org/downloads/
-- Libreria psutil (installazione automatica con installa.bat)
+- Libreria psutil (installazione automatica con installa_e_avvia.bat)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 INSTALLAZIONE RAPIDA
 --------------------
 1. Assicurati di avere Python installato
-2. Fai doppio clic su  "installa_e_avvia.bat"
+2. Modifica il file "installa_e_avvia.bat" in particolar modo la parte "python C:\Percorso......\pc_inspector.py" inserendo il percorso esatto del file "pc_inspector.py"
+3. Fai clic destro su  "installa_e_avvia.bat" e successivamente Esegui come Amministratore
    → installa psutil automaticamente
    → avvia l'app
 
